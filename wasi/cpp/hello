@@ -1,0 +1,2 @@
+#!/bin/bash
+wasirun /Users/i349897/Projects/CF/portal-cf-site-semantic-service/NODE14/wasi/cpp/hello.wasm "$@"
